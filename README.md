@@ -12,10 +12,10 @@ For 2018 Award:
 
 - 2018-09-24: Community Service Award nomination form available
 - 2018-10-01: Blog post with call for Community Service Award nomination
-- 2018-10-29: Blog post with reminder for Community Service Award nomination
-- 2018-10-31 (Anywhere on Earth Time): **Hard** deadline for nomination
-- 2018-11-15: Executive Council make decision on Awardee
-- 2018-12-03: Executive Council publish public announcement
+- 2018-11-12: Blog post with reminder for Community Service Award nomination
+- 2018-11-19 (Anywhere on Earth Time): **Hard** deadline for nomination
+- 2018-12-06: Executive Council make decision on Awardee
+- 2018-12-10: Executive Council publish public announcement
 - 2019-01-18 (Anywhere on Earth Time): Deadline for ship of award
 
 ## Community Service Award nomination form
