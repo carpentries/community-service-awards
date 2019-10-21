@@ -8,19 +8,19 @@ Recognition will take the form of an award certificate plus a public announcemen
 
 ## Timeline
 
-For 2018 Award:
+For 2019 Award:
 
-- 2018-09-24: Community Service Award nomination form available
-- 2018-10-01: Blog post with call for Community Service Award nomination
-- 2018-11-12: Blog post with reminder for Community Service Award nomination
-- 2018-11-19 (Anywhere on Earth Time): **Hard** deadline for nomination
-- 2018-12-06: Executive Council make decision on Awardee
-- 2018-12-10: Executive Council publish public announcement
-- 2019-01-18 (Anywhere on Earth Time): Deadline for ship of award
+- 2019-10-28: Community Service Award nomination form available
+- 2019-10-28: Blog post with call for Community Service Award nomination
+- 2019-11-18: Blog post with reminder for Community Service Award nomination
+- 2019-11-29 (Anywhere on Earth Time): **Hard** deadline for nomination
+- 2019-12-16: Executive Council make decision on Awardee
+- 2019-12-18: Executive Council publish public announcement
 
 ## Community Service Award nomination form
 
-[2018 Form](https://goo.gl/forms/abTNgR90R9ai4NfF3).
+- [2019 Form](https://forms.gle/SpKT92Fv1fUr8By5A).
+- [2018 Form](https://goo.gl/forms/abTNgR90R9ai4NfF3).
 
 ## Duties
 
@@ -45,7 +45,15 @@ For 2018 Award:
 
 ## Past Awardees
 
-- Anelda van der Walt (in 2017)
-- Christina Koch (in 2016)
-- Adrianna Pinska (in 2016)
-- Jon Pipitone (in 2016)
+- 2018
+  - Tim Dennis
+  - Margareth Gfrerer
+  - Toby Hodges
+  - Fotis Psomopoulos (special CarpentryCon Community Award)
+  - Malvika Sharan (special CarpentryCon Community Award)
+- 2017 
+  - Anelda van der Walt
+- 2016
+  - Christina Koch
+  - Adrianna Pinska
+  - Jon Pipitone
